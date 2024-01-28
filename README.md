@@ -1,5 +1,3 @@
-# Actualización de la Documentación
-
 ## Configuración del Proyecto
 ### Estructura de Carpetas
 El proyecto sigue una estructura de carpetas organizada para separar lógicamente las distintas partes de la aplicación:
